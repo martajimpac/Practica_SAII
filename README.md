@@ -1,5 +1,4 @@
 PRACTICA FINAL GRUPO 5.
-En la entrega hemos subido 1 archivos.zip.
 
 En el archivo PracticaSAIIGrupo5.zip contiene las siguintes carpetas
 Carepta software entregamos:
