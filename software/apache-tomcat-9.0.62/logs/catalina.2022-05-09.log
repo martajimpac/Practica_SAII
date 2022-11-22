@@ -1,0 +1,241 @@
+09-May-2022 16:01:43.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.62
+09-May-2022 16:01:43.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 31 2022 14:34:15 UTC
+09-May-2022 16:01:43.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.62.0
+09-May-2022 16:01:43.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+09-May-2022 16:01:43.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+09-May-2022 16:01:43.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+09-May-2022 16:01:43.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-16.0.2
+09-May-2022 16:01:43.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       16.0.2+7-67
+09-May-2022 16:01:43.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+09-May-2022 16:01:43.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\paula\Downloads\apache-tomcat-9.0.62
+09-May-2022 16:01:43.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\paula\Downloads\apache-tomcat-9.0.62
+09-May-2022 16:01:43.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+09-May-2022 16:01:43.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+09-May-2022 16:01:43.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+09-May-2022 16:01:43.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-May-2022 16:01:43.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-May-2022 16:01:43.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\logging.properties
+09-May-2022 16:01:43.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-May-2022 16:01:43.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-OP32FHF
+09-May-2022 16:01:43.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+09-May-2022 16:01:43.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-May-2022 16:01:43.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+09-May-2022 16:01:43.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\paula\Downloads\apache-tomcat-9.0.62
+09-May-2022 16:01:43.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\paula\Downloads\apache-tomcat-9.0.62
+09-May-2022 16:01:43.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\paula\Downloads\apache-tomcat-9.0.62\temp
+09-May-2022 16:01:43.397 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.2.32] con la versión APR [1.7.0].
+09-May-2022 16:01:43.398 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+09-May-2022 16:01:43.400 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-May-2022 16:01:43.450 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 1.1.1n  15 Mar 2022]
+09-May-2022 16:01:46.386 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+09-May-2022 16:01:46.490 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [4354] milliseconds
+09-May-2022 16:01:46.683 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+09-May-2022 16:01:46.684 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.62]
+09-May-2022 16:01:46.721 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\.#index.jsp.xml]
+09-May-2022 16:01:46.769 WARNING [main] org.apache.catalina.core.StandardContext.setPath Una ruta de contexto debe de ser o una cadena vacía o comenzar con "/". La ruta [./index.jsp] no cumple con estos criterios y ha sido cambiada por [/./index.jsp]
+09-May-2022 16:01:46.774 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/./index.jsp] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\.#index.jsp.xml] has been ignored
+09-May-2022 16:01:47.909 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\.#index.jsp.xml] has finished in [1.181] ms
+09-May-2022 16:01:47.911 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:01:47.914 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:01:48.000 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error durante el despliegue del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:690)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1889)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:583)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:473)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:319)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:927)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@73a2e526]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4885)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5023)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\paula\Desktop\MyDB\target\MyDB-1.0-SNAPSHOT] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:762)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:719)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+09-May-2022 16:01:48.011 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [101] ms
+09-May-2022 16:01:48.011 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\docs] de la aplicación web
+09-May-2022 16:01:48.186 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\docs] has finished in [175] ms
+09-May-2022 16:01:48.187 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\examples] de la aplicación web
+09-May-2022 16:01:50.493 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\examples] has finished in [2.306] ms
+09-May-2022 16:01:50.494 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\host-manager] de la aplicación web
+09-May-2022 16:01:50.749 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\host-manager] has finished in [255] ms
+09-May-2022 16:01:50.750 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\manager] de la aplicación web
+09-May-2022 16:01:50.887 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\manager] has finished in [137] ms
+09-May-2022 16:01:50.887 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\ROOT] de la aplicación web
+09-May-2022 16:01:50.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\paula\Downloads\apache-tomcat-9.0.62\webapps\ROOT] has finished in [77] ms
+09-May-2022 16:01:50.971 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-May-2022 16:01:51.169 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4678] milliseconds
+09-May-2022 16:02:00.127 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:02:00.195 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:02:00.198 WARNING [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:02:00.305 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [109] ms
+09-May-2022 16:02:00.312 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:11:19.394 INFO [http-nio-8080-exec-20] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:11:19.499 INFO [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:11:19.502 WARNING [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:11:19.671 INFO [http-nio-8080-exec-19] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [172] ms
+09-May-2022 16:11:19.685 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:14:07.959 INFO [http-nio-8080-exec-26] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:14:08.015 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:14:08.017 WARNING [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:14:08.267 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [252] ms
+09-May-2022 16:14:08.276 INFO [http-nio-8080-exec-23] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:15:18.921 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:15:19.162 INFO [http-nio-8080-exec-29] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:15:19.811 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:15:19.926 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:19:18.144 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:19:18.218 INFO [http-nio-8080-exec-32] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:19:56.912 INFO [http-nio-8080-exec-33] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:19:57.041 INFO [http-nio-8080-exec-33] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:21:04.189 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:21:04.332 INFO [http-nio-8080-exec-36] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:21:17.644 INFO [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:21:17.677 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:21:17.679 WARNING [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:21:17.744 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [52] ms
+09-May-2022 16:21:17.748 INFO [http-nio-8080-exec-36] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:21:59.421 INFO [http-nio-8080-exec-45] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:21:59.460 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:21:59.462 WARNING [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:21:59.545 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [85] ms
+09-May-2022 16:21:59.549 INFO [http-nio-8080-exec-43] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:23:49.872 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:23:49.916 INFO [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:23:49.918 WARNING [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:23:49.982 INFO [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [66] ms
+09-May-2022 16:23:49.987 INFO [http-nio-8080-exec-60] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:25:12.699 INFO [http-nio-8080-exec-62] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:25:12.793 INFO [http-nio-8080-exec-62] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:25:14.087 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:25:14.134 INFO [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:25:14.147 WARNING [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:25:14.235 INFO [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [101] ms
+09-May-2022 16:25:14.240 INFO [http-nio-8080-exec-60] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:26:31.463 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:26:31.555 INFO [http-nio-8080-exec-52] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:28:12.390 INFO [http-nio-8080-exec-82] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:28:12.446 INFO [http-nio-8080-exec-82] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:32:19.503 INFO [http-nio-8080-exec-93] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:32:19.538 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:32:19.538 WARNING [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:32:19.635 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [97] ms
+09-May-2022 16:32:19.641 INFO [http-nio-8080-exec-90] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:33:48.775 INFO [http-nio-8080-exec-98] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:33:48.807 INFO [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:33:48.807 WARNING [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:33:48.881 INFO [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [61] ms
+09-May-2022 16:33:48.885 INFO [http-nio-8080-exec-95] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:34:45.491 INFO [http-nio-8080-exec-109] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:34:46.008 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:34:46.042 INFO [http-nio-8080-exec-107] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:34:46.044 WARNING [http-nio-8080-exec-107] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:34:46.125 INFO [http-nio-8080-exec-107] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [83] ms
+09-May-2022 16:34:46.129 INFO [http-nio-8080-exec-111] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:39:48.671 INFO [http-nio-8080-exec-117] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:39:48.696 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:39:48.696 WARNING [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:39:48.772 INFO [http-nio-8080-exec-118] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [75] ms
+09-May-2022 16:39:48.776 INFO [http-nio-8080-exec-120] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:42:52.661 INFO [http-nio-8080-exec-127] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:42:52.694 INFO [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:42:52.696 WARNING [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:42:52.767 INFO [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [73] ms
+09-May-2022 16:42:52.772 INFO [http-nio-8080-exec-132] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:43:48.136 INFO [http-nio-8080-exec-125] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:43:48.178 INFO [http-nio-8080-exec-133] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:43:48.180 WARNING [http-nio-8080-exec-133] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:43:48.268 INFO [http-nio-8080-exec-133] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [89] ms
+09-May-2022 16:43:48.272 INFO [http-nio-8080-exec-136] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:44:42.353 INFO [http-nio-8080-exec-135] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 16:44:42.394 INFO [http-nio-8080-exec-141] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 16:44:42.398 WARNING [http-nio-8080-exec-141] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 16:44:42.471 INFO [http-nio-8080-exec-141] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [76] ms
+09-May-2022 16:44:42.475 INFO [http-nio-8080-exec-142] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 16:56:56.972 INFO [http-nio-8080-exec-147] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:56:57.209 INFO [http-nio-8080-exec-147] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 16:56:58.160 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 16:56:58.250 INFO [http-nio-8080-exec-154] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:03:09.417 INFO [http-nio-8080-exec-159] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:03:09.518 INFO [http-nio-8080-exec-159] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:05:45.810 INFO [http-nio-8080-exec-158] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:05:45.930 INFO [http-nio-8080-exec-158] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:07:40.870 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:07:40.935 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:08:31.204 INFO [http-nio-8080-exec-161] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:08:31.301 INFO [http-nio-8080-exec-161] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:09:43.521 INFO [http-nio-8080-exec-171] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:09:43.649 INFO [http-nio-8080-exec-171] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:09:56.326 INFO [http-nio-8080-exec-173] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:09:56.390 INFO [http-nio-8080-exec-173] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:12:18.616 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:12:18.757 INFO [http-nio-8080-exec-169] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:12:45.356 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:12:45.431 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:12:47.984 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:12:48.073 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:17:41.733 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:17:41.805 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:19:05.590 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:19:05.685 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:21:19.414 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:21:19.505 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:21:28.603 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:21:28.668 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:22:15.415 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:22:15.550 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:22:27.599 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:22:27.685 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:25:45.987 INFO [http-nio-8080-exec-195] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:25:46.068 INFO [http-nio-8080-exec-195] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:26:16.778 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:26:16.843 INFO [http-nio-8080-exec-186] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:26:53.814 INFO [http-nio-8080-exec-189] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:26:53.931 INFO [http-nio-8080-exec-189] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:27:50.007 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/MyDB]
+09-May-2022 17:27:50.101 INFO [http-nio-8080-exec-176] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+09-May-2022 17:31:34.425 INFO [http-nio-8080-exec-190] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]
+09-May-2022 17:31:34.456 INFO [http-nio-8080-exec-172] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml]
+09-May-2022 17:31:34.456 WARNING [http-nio-8080-exec-172] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/MyDB] in deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has been ignored
+09-May-2022 17:31:34.535 INFO [http-nio-8080-exec-172] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\paula\Downloads\apache-tomcat-9.0.62\conf\Catalina\localhost\MyDB.xml] has finished in [79] ms
+09-May-2022 17:31:34.540 INFO [http-nio-8080-exec-195] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyDB]] after start() had already been called. The second call will be ignored.
+09-May-2022 20:12:11.862 INFO [http-nio-8080-exec-208] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/MyDB]

@@ -1,0 +1,123 @@
+/*--- common CSS ---*/
+#nav-usr-icon {
+    width: 30px;
+}
+
+#nav-item-tr {
+    text-align: right !important;
+}
+
+/*--- create.html and create-log.html CSS style ---*/
+#table-create-input-name {
+    height: 42px;
+}
+
+#table-create-input-cell {
+    color: black;
+    text-align: center;
+}
+
+#table-create-index {
+    color: #6C55F9;
+    vertical-align: middle;
+}
+
+#table-create-primary-key {
+    color: #6C55F9;
+    font-size: 0.98rem;
+    font-weight: normal;
+}
+
+.btn-toolbar .btn-group {
+    margin-bottom: 0.4rem;
+}
+
+/*--- create-log.html CSS style---*/
+.mai-person-circle-outline {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 30px;
+}
+
+.dropdownMenuButton {
+    height: 39px !important;
+}
+
+@media (max-width: 991.99px) {
+    .mai-person-circle-outline {
+        margin-top: 0.5rem;
+    }
+}
+
+#input-delete-row-col {
+    color: black;
+    text-align: center;
+    font-size: small;
+    width: 14em;
+    margin-top: 8px;
+}
+
+#btn-add-below-create-table-log {
+    margin-top: 34.5px;
+    margin-bottom: 4px;
+}
+
+#btn-del-below-create-table-log {
+    margin: 3px;
+    margin-bottom: 4px;
+}
+
+/*--- admin.html CSS style---*/
+#table-admin-index {
+    color: black;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+#table-admin-select {
+    color: darkred;
+    font-size: 0.98rem;
+    font-weight: normal;
+}
+
+/*--- create.html and create-log.html and create-log-admin.html > RightTable CSS style ---*/
+.tableNamesSelected{
+    background-color: orange;
+    cursor: pointer;
+}
+.tablesNames{
+    cursor: pointer;
+}
+.table{
+    cursor: pointer;
+}
+#tableBD{
+    display: block;
+    overflow: auto;
+    width:710px;
+    height: 330px;
+    table-layout: fixed;
+    scrollbar-width: thin;  
+    scrollbar-color: #6C55F9 white;   /* scroll thumb and track */
+}
+/* ------ scrollbar for only  Chrome --------- */
+#tableBD::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+}
+#tableBD::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 10px #d2d4ce;
+    border-radius: 10px;
+}
+#tableBD::-webkit-scrollbar-thumb{
+    -webkit-box-shadow: inset 0 0 10px #6C55F9;
+    border-radius: 10px;
+}
+/* --------------------------------------- */
+#table-create-input-cell{
+    width: auto;
+}
+.form-check-input{
+    position: relative;
+}
+
